@@ -1,4 +1,4 @@
-package com.markost3d.reduction;
+package com.markost3d.streams.reduction;
 
 import java.util.ArrayList;
 import java.util.Collections;

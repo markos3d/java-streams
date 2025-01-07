@@ -1,4 +1,4 @@
-package com.markost3d.introduction;
+package com.markost3d.streams.introduction;
 
 import java.util.Arrays;
 import java.util.Random;

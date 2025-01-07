@@ -1,4 +1,4 @@
-package com.markost3d.lazy_stream_evaluation_parallel_stream;
+package com.markost3d.streams.lazy_stream_evaluation_parallel_stream;
 
 import java.util.List;
 import java.util.stream.IntStream;

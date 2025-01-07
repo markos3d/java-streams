@@ -1,4 +1,4 @@
-package com.markost3d.mapping;
+package com.markost3d.streams.mapping;
 
 import java.util.Map;
 import java.util.stream.Collectors;

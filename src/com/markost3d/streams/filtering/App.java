@@ -1,4 +1,4 @@
-package com.markost3d.filtering;
+package com.markost3d.streams.filtering;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.markost3d.flatMap;
+package com.markost3d.streams.flatMap;
 
 import java.util.Arrays;
 import java.util.function.Consumer;
